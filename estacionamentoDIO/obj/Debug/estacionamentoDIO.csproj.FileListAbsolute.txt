@@ -1,0 +1,8 @@
+E:\projetoDIO\estacionamentoDIO\obj\Debug\estacionamentoDIO.csproj.AssemblyReference.cache
+E:\projetoDIO\estacionamentoDIO\obj\Debug\estacionamentoDIO.csproj.SuggestedBindingRedirects.cache
+E:\projetoDIO\estacionamentoDIO\obj\Debug\estacionamentoDIO.csproj.CoreCompileInputs.cache
+E:\projetoDIO\estacionamentoDIO\bin\Debug\estacionamentoDIO.exe.config
+E:\projetoDIO\estacionamentoDIO\bin\Debug\estacionamentoDIO.exe
+E:\projetoDIO\estacionamentoDIO\bin\Debug\estacionamentoDIO.pdb
+E:\projetoDIO\estacionamentoDIO\obj\Debug\estacionamentoDIO.exe
+E:\projetoDIO\estacionamentoDIO\obj\Debug\estacionamentoDIO.pdb
